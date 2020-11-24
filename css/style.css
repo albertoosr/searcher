@@ -1,0 +1,14 @@
+:root{
+    --primary: #f6f6f6;
+    --secundary: #FFFF;
+}
+
+body{
+    margin:0;
+    padding:0;
+    background-color: var(--primary);
+}
+
+.form-login{ background-color: var(--secundary);}
+
+.form-login , label { font-weight: bold;}
